@@ -8,4 +8,4 @@ List of Machine Learning Algorithms Covered till now:
 4. Logistic Regression
 5. DBSCAN Clustering
 
-Please Give a :star2: if you :+1: it.
+__Please Give a :star2: if you :+1: it.__
