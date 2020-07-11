@@ -33,6 +33,11 @@ MANIFEST
 *.manifest
 *.spec
 
+*.pyc
+Data/
+support_vector_machine.py
+test.py
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
